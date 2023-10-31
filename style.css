@@ -1,0 +1,62 @@
+header{
+    text-align: center;
+    font-size: 50px;
+    font-style: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+    height: 110px;
+    background-image: url(https://wallpapers.com/images/hd/star-wars-space-background-1920-x-1200-d8djpzopisk59y67.jpg);
+    background-color: aliceblue;
+}
+.cool{
+display:flex;
+flex-direction: row;
+justify-content: space-around;
+padding: 30px;
+position: relative;
+right: 100px;
+}
+.image1{
+    width: 50px
+    height: 50px
+    
+}
+
+.image2{
+    width: 50px;
+    height: 50px;
+    
+
+}
+#attack{
+    background-color: yellow;
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+}
+#continue{
+    background-color: purple;
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+}
+#retreat{
+    background-color: orangered;
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+}
+body{
+    height:500px;
+    background-image: url(https://wallpapers.com/images/hd/star-wars-space-background-1920-x-1200-d8djpzopisk59y67.jpg);
+    background-size: auto;
+}
+footer{
+    height: 100px;
+    width:100%;
+}
+#text{
+    background-color: aliceblue;
+    display:flex;
+    font-size: 20px;
+}
